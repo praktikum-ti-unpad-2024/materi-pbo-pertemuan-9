@@ -3,7 +3,6 @@ layout: center
 class: text-center
 ---
 
-# Tugas Kelompok!
+# PROJECT Kelompok!
 
 TO BE ANNOUNCED LATER......
-
