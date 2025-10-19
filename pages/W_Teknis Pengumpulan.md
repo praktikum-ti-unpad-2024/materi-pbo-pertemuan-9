@@ -12,14 +12,14 @@ Pengerjaan dan pengumpulan tugas akan dilakukan di **Github Classroom**
 
 #### Kelas A:
 
-[Link Tugas Kelas A](https://classroom.github.com/a/Ux2Xn2LM)
+[Link Tugas Kelas A](https://classroom.github.com/a/ePdUq101)
 
   </div>
   <div>
 
 #### Kelas B:
 
-[Link Tugas Kelas B](https://classroom.github.com/a/gfQ9PEwX)
+[Link Tugas Kelas B](https://classroom.github.com/a/VxnG8WMQ)
 
   </div>
 </div>
