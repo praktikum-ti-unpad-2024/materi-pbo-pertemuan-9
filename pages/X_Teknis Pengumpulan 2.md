@@ -17,11 +17,11 @@ Contoh Format
 
 ```java {all}
 /*
-  Nama	  : Jane Doe
-  NPM		  : 99
-  Kelas		: A
-  Tanggal	: 1 September 2021
-  Deskripsi	: Class jawaban exercise-01 soal-01
+  Nama      : Jane Doe
+  NPM       : 99
+  Kelas     : A
+  Tanggal   : 1 September 2021
+  Deskripsi : Class jawaban exercise-01 soal-01
 */
 
 ```
